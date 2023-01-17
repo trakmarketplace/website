@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: Trebuchet MS, sans-serifTrebuchet MS, sans-serif;
+  font-size: 200px;
+  color: #130067;
+  text-align: center;
+}
+
+h2 {
+  font-family: Trebuchet MS, sans-serifTrebuchet MS, sans-serif;
+  font-size: 25px;
+  color: #130067;
+  text-align: center;
+}
+
+img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
